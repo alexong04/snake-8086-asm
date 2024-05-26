@@ -16,11 +16,23 @@
 <h1>Snek</h1>
 <p>Snake game written in 8086 assembly</p>
 <p align="center">
-  <img style="width:500px" src="https://i.imgur.com/9aGwXoz.gif" alt="snek demo">
+
+
+https://github.com/chaotic-braindead/snake-8086-asm/assets/102578910/e998f690-5ddc-4961-9c24-3d32e4e16908
+
+
   <ul align="center">
     <li>
+      <h2>Menu</h2>
+      <img style="width:500px" src="https://i.imgur.com/zR5O0Qo.png" alt="menu">
+    </li>
+    <li>
       <h2>Leaderboard</h2>
-      <img style="width:500px" src="https://i.imgur.com/XKEFgcs.png" alt="leaderboard">
+      <img style="width:500px" src="https://i.imgur.com/EPGcotb.png" alt="leaderboard">
+    </li>
+    <li>
+      <h2>Difficulty Selection</h2>
+      <img style="width:500px" src="https://i.imgur.com/ZZ8jddG.png" alt="diff">
     </li>
     <li>
       <h2>Easy</h2>
@@ -45,6 +57,10 @@
       <img style="width:500px" src="https://i.imgur.com/VZvvem1.png" alt="mech5">
       <img style="width:500px" src="https://i.imgur.com/Su6altu.png" alt="mech6">
       <img style="width:500px" src="https://i.imgur.com/de2egJ2.png" alt="mech7">
+    </li>
+    <li>
+      <h2>Game Over</h2>
+      <img style="width:500px" src="https://i.imgur.com/cjk0lLy.png" alt="gameover">
     </li>
   </ul>
 </p>
